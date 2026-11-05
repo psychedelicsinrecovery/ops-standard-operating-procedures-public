@@ -92,3 +92,5 @@ The member opens the page from their own account; the helper's read test passes;
 | 2026-10-31 | The generic reading-room route: an organisation-owned private room, a readers team with Read, a public room with a Pages front end, a fill-in address table | Alfred |
 | 2026-11-01 | Lucid pass: Lucide icons, the route drawn in Mermaid; links to SOP-OPS-003 (the tripwires) and SOP-GOV-002 (teams, base permission none); new readers start at SOP-COM-001 | Alfred |
 | 2026-11-01 | Levelled with `my-template` for PIR®: the address table refilled now that both rooms and the procedures twin are live (rulesets, Pages, the inert syncs and their secrets) | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

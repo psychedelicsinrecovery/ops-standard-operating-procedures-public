@@ -278,3 +278,5 @@ The lane's tree contains exactly the allowlisted paths plus its reserved files; 
 | 2026-11-01 | Review: a fourteenth lane added, `.github-private` → `.github` (the masked `CONTACTS.md`), which the first listing missed; it has no tripwire yet | Alfred |
 | 2026-11-01 | Review: the `tech-committee` and `changelog-astro` rows name only what an officer attests; the fuller review list is kept with the steward | Alfred |
 | 2026-11-02 | *Rotating a deploy key*: generate, add, set the secret, remove the old, verify; the private half is never printed | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

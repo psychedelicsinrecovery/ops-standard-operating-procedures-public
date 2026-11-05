@@ -141,3 +141,5 @@ The pull request page shows **Merged** with a merge commit; `git log --merges -1
 | 2026-11-01 | Lucid pass (icons, a `gitGraph` of a merge commit); **Honest history**: the squash audit, what a squash costs and how a later merge restores it, with a generic worked example; the 2026-10-31 "no attribution was lost" corrected (it checked only the latest Promotes); names may be public | Alfred |
 | 2026-11-01 | PIR®'s copy: the twelve named (names may be public); PIR®'s own audit: 15 merged pull requests, all squashed; 14 one-commit dependency updates (nothing folded) and `tech-committee` #1 (the Cosmos helper's trailer folded into text, the originals not in `main`); 33 of 38 repositories still offer squash | Alfred |
 | 2026-11-01 | PIR®'s audit table (private commit SHAs, names, helper details) moved to the members-only `SOP-OPS-002-honest-history.md`, because this procedure goes to the public twin; the generic text now says "a members-only page" | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

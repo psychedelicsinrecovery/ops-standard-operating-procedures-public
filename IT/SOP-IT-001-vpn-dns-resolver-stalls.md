@@ -61,3 +61,5 @@ Steps 2 and 3 of the check answer alike; the observer's log shows a new tick; th
 | 2026-10-30 | Drafted from the Oct 29–30 outage | Alfred |
 | 2026-11-01 | PIR®'s copy levelled with `my-template/sop-template`: the template's generic wording replaces the lab-specific details, so the page can travel to the public twin; Lucide icons on every section | Alfred |
 | 2026-11-01 | The resolver check made generic for the public copy: a placeholder for the failing hostname, no VPN product or uplink named, the tunnel found with `ifconfig`; same steps, same fix | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

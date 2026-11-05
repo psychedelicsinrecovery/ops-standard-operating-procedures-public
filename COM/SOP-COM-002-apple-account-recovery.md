@@ -98,3 +98,5 @@ The test for all of this is a house fire: every Mac and phone gone at once. Walk
 - Apple, *How to add a Legacy Contact for your Apple Account*: <https://support.apple.com/en-us/102631>
 
 *Not legal advice. A will and an estate plan say who may act after a death; a legacy contact is Apple's door, not the law's.*
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

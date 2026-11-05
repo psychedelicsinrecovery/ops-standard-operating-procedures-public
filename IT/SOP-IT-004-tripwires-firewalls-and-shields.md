@@ -83,3 +83,5 @@ flowchart LR
 | <img src="../assets/icons/bot.svg" width="16" height="16" alt=""> Helper (an agent) | everything up to the merge; never an attestation, never a merge, never a public-surface action without a person's command |
 
 *Sources: the pages named in the table, all in PIR®'s procedures or in `my-template`, read on 2026-11-04. Not legal advice.*
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
