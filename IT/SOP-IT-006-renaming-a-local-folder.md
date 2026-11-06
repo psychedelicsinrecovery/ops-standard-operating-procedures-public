@@ -63,6 +63,8 @@ The lab's own renames, written down so others know how this is done. **Eight fol
 5. **Seven sessions found only in an archive.** Seven old sessions sat only in `~/.claude/projects/_archived-pre-move-sessions/`, filed under paths that had not existed since earlier moves, so `/resume` could list them nowhere. They were **copied, not moved,** into the project folders of their repositories' current homes. The archive stays as it was.
 6. **The nightly job, before its run.** The nightly job named two paths inside a renamed lab. Both were fixed the same day, before its next run, so it never had the chance to fail at night.
 
+**Later the same day: the labs move out of `~/code`.** Ten `-lab` folders moved from `~/code` to `~/drasticstaticLabs` with `rename-local-repo.py` (the eighth folder above among them, as `taylordwraps-lab`). `--allow-idle-shells` let the apply pass idle Terminal tabs; `--adopt=NAME` vouched for Claude project folders that an earlier move had left recording old paths. The scheduled jobs were repointed before anything else, and the fleet scripts were given the new root.
+
 ## <img src="../assets/icons/book-open.svg" width="24" height="24" alt=""> Related
 `my-template/NESTED-REPOS-GUIDE.md` (where clones live), SOP-OPS-003 (the lanes), `scripts/clone-map.sh` (where everything is now). *Read Nov 5, 2026 from the machine itself; Claude Code may change how it files projects, so re-check `~/.claude/projects/` if this page ever seems wrong.*
 
@@ -71,5 +73,6 @@ The lab's own renames, written down so others know how this is done. **Eight fol
 |---|---|
 | 2026-11-05 | Drafted before the lab's own renames, from a heads-up about orphaned sessions. |
 | 2026-11-06 | A worked example from the lab's renames that day; `--adopt=` written with its `=`. |
+| 2026-11-06 | The same day's second move: ten `-lab` folders from `~/code` to `~/drasticstaticLabs`. |
 
 *Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
